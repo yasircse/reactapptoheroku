@@ -29,7 +29,7 @@ provide your login account credentials
 run
 create-react-app <projectname>
 
-<h3>Step</h3>
+<h3>Step6</h3>
 in order to initialize it for github run
 git init  
 by doing this you can later upload your project to github
